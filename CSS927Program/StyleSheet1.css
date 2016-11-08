@@ -1,0 +1,13 @@
+﻿body {
+    background-color:aquamarine;
+}
+
+p{
+    color:darkmagenta;
+    font-family:cursive;
+}
+
+.thisIsAClass{
+    color:red;
+    font-family:Verdana;
+}

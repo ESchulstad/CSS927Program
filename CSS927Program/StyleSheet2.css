@@ -1,0 +1,29 @@
+﻿body {
+}
+.paragraph{
+    color:red;
+    font-family:Verdana;
+    font-style: italic;
+    font-size: 14pt;
+    text-align: center;
+}
+h1,h2,h3{
+    font-family:'Lobster','cursive'
+}
+h1{
+    color:darksalmon;
+    font-size:54pt;
+    text-align: center;
+
+}
+h2{
+    color:aquamarine;
+    font-size:16pt;
+}
+h3{
+    color:blueviolet;
+    font-size: 12pt;
+}
+table{
+    height:100%;
+}
